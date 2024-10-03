@@ -45,7 +45,7 @@ const view = () => {
             );
             setfilteredSalaries(filteredRecords);
         };
-
+// add
         return(
             <>
                 {filteredSalaries === null ? (

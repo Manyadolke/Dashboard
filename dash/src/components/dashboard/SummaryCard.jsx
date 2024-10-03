@@ -16,3 +16,6 @@ const SummaryCard = ({icon,text,number,color}) => {
 }
 
 export default SummaryCard
+
+
+// add

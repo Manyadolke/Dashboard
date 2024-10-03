@@ -15,7 +15,7 @@ import Edit from './components/employee/Edit';
 import AddSalary from './components/salary/Add'
 import ViewSalary from './components/salary/view'
 import EditDepartment from './components/departments/EditDepartment';
-import Summary from './components/EmployeeDashboard/Summary';
+import Summary from './components/EmployeeDashboard.jsx/Summary';
 
 
 
@@ -69,3 +69,5 @@ function App() {
 } 
 
 export default App; 
+
+// add

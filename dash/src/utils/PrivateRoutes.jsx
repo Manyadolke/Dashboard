@@ -4,6 +4,7 @@
 import React from 'react'
 import {useAuth} from '../context/authContext'
 import {Navigate} from 'react-router-dom'
+// add
 
 const PrivateRoutes = ({children}) =>{
     const{user, loading} = useAuth()

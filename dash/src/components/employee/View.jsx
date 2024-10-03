@@ -6,7 +6,7 @@ const View = () => {
     const { id } = useParams();
     const [employee, setEmployee] = useState(null);
    
-
+// adddd 
 
 
     useEffect(() => {

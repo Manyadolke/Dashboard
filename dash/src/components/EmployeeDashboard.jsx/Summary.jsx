@@ -1,6 +1,7 @@
 import React from 'react'
 import { FaUser } from 'react-icons/fa'
 import { useAuth } from '../../context/authContext'
+// add
 
 const SummaryCard = () => {
     const {user} = useAuth()

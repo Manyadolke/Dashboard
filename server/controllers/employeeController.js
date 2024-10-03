@@ -95,7 +95,7 @@ const getEmployees = async (req,res) =>{
     }
 }
 
-
+// add
 const getEmployee = async (req, res) => {
     const { id } = req.params;
     

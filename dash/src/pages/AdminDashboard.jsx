@@ -10,7 +10,7 @@ import { Outlet } from 'react-router-dom';
 
   const {user}= useAuth()
   
-
+// add
   return (
     <div className='flex'>
 

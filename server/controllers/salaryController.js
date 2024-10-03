@@ -25,6 +25,7 @@ const AddSalary= async (req ,res) => {
     }
 
 }
+// add
 
 const getSalary = async (req,res)=>{
     try{

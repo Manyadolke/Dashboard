@@ -190,6 +190,7 @@ const Add = () => {
                             placeholder='deductions'
                             className="mt-1 p-2 block w-full border border-gray-300 rounded-md"
                             required/>
+                            {/* add */}
                     </div>
                     {/* pay date */}
                     <div >

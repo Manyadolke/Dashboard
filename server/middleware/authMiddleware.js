@@ -8,6 +8,7 @@ const verifyUser = async (req,res,next) =>{
         if(!token){
             return res.status(404).json({success: false, error:"Token Not Provided"})
         }
+        // add
 
          const decoded =  jwt.verify(token, process.env.JWT_KEY)
          if(!decoded){

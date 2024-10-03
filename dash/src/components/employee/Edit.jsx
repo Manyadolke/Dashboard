@@ -16,6 +16,7 @@ const Edit = () => {
         salary : 0,
         department:''
     });
+    // add
    
     const navigate = useNavigate()
     const [loading, setLoading] = useState(true);
